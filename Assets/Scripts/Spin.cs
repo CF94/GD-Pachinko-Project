@@ -18,6 +18,5 @@ public class Spin : MonoBehaviour
     void Update()
     {
         transform.Rotate(0, 0, moveSpeed);
-        transform.
-    }
+     }
 }

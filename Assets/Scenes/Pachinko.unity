@@ -4551,8 +4551,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 423e7a30490e3934782b27913a50d8b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: -5
+  moveSpeed: 5
   rotationChange: {x: 0, y: 0}
+  positionChange: {x: 0, y: 0}
 --- !u!114 &815966408
 MonoBehaviour:
   m_ObjectHideFlags: 0
